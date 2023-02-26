@@ -5,5 +5,4 @@ public class EmployeeCustomException  extends Exception {
 	    {
 	        super(Invalid_Input);
 	    }
-
 }

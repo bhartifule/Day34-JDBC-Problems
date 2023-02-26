@@ -1,0 +1,18 @@
+package com.bridglabz.mysql.Day34JDBC;
+
+import java.sql.Date;
+
+public class Employee {
+	String Name;
+    double Salary   ;
+    Date Start_Date;
+    String Gender;
+    public Employee(int id, String name, double salary, Date start_Date, String gender) {
+        super();
+        int Id = id;
+        Name = name;
+        Salary = salary;
+        Start_Date = start_Date;
+        Gender = gender;
+}
+}

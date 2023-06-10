@@ -2,7 +2,8 @@ package com.bridglabz.mysql.Day34JDBC;
 
 import java.time.LocalDate;
 
-public class EmpPayRollData {
+public class EmpPayRollData
+{
 	public int id;
     public String name;
     public double basic_pay;

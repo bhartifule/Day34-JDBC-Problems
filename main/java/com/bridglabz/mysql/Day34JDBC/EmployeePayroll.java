@@ -2,7 +2,8 @@ package com.bridglabz.mysql.Day34JDBC;
 	import java.sql.*;
 	import java.util.Enumeration;
 
-	public class EmployeePayroll {
+	public class EmployeePayroll 
+	{
 		public static void preparedStatement(String name, double salary) {
 
 	        try {

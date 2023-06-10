@@ -2,7 +2,8 @@ package com.bridglabz.mysql.Day34JDBC;
 
 import java.sql.Date;
 
-public class Employee {
+public class Employee 
+{
 	int  Id;
     String Name;
     double Salary   ;

@@ -5,7 +5,7 @@ package com.bridglabz.mysql.Day34JDBC;
 	public class EmployeePayroll {
 		 public static void CreatedConnection()
 		 {
-
+ 
 		        try {
 		            Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/payroll_service", "root",
 		                    "Root");

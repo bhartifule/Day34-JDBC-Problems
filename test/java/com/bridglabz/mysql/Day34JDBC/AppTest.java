@@ -1,7 +1,7 @@
 package com.bridglabz.mysql.Day34JDBC;
 
 import static org.junit.Assert.assertTrue;
-
+ 
 import org.junit.Test;
 
 /**
